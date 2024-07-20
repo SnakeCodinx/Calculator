@@ -7,3 +7,17 @@ Basic arithmetic operations (addition, subtraction, multiplication, division)
 Support for multiple digit numbers
 Light and dark mode feature
 Responsive design
+
+# Screenshots
+
+calculator
+![screenshot](Screenshot.png)
+
+# Tutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube]())
+
+
+
+# snake.coding
+We create a project each 4 days with voting on our <a href="https://youtube.com/@snakecoding_12" target="_blank">Youtube</a> channel.
+You can vote for upcoming projects on our channel **community** page :wink:
