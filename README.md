@@ -7,7 +7,7 @@ calculator
 ![screenshot](Screenshot1.png)
 
 # Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube]())
+click on the link to see :- ([Open in Youtube](https://youtu.be/FZGK5ifwY-I))
 
 # Features
 
