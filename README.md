@@ -11,7 +11,7 @@ Responsive design
 # Screenshots
 
 calculator
-![screenshot](Screenshot.png)
+![screenshot](Screenshot1.png)
 
 # Tutorial is available on youtube channel 
 click on the link to see :- ([Open in Youtube]())
