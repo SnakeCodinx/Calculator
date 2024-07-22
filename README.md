@@ -1,13 +1,15 @@
 # Calculator Using HTML, CSS, and JS Git Repo
 This repository contains a simple calculator built using HTML, CSS, and JavaScript. The calculator has a basic layout with a display screen and a keypad with numbers and operators. The user can input numbers and operators to perform calculations, and the result will be displayed on the screen.
 
+# Tutorial is available on youtube channel 
+click on the link to see :- ([Open in Youtube](https://youtu.be/FZGK5ifwY-I))
+
 # Screenshots
 
 calculator
 ![screenshot](Screenshot1.png)
 
-# Tutorial is available on youtube channel 
-click on the link to see :- ([Open in Youtube](https://youtu.be/FZGK5ifwY-I))
+
 
 # Features
 
